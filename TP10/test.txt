@@ -1,0 +1,5 @@
+Se están utilizando dados de 15 caras
+tirada 1: 9, 5, 8, 9,  -Suma:31 
+tirada 2: 15, 10, 9, 3,  -Suma:37 
+tirada 3: 5, 8, 6, 4,  -Suma:23 
+tirada 4: 6, 2, 14, 7,  -Suma:29 

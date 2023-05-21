@@ -1,0 +1,7 @@
+#ifndef DEFINE_H_INCLUDED
+#define DEFINE_H_INCLUDED
+
+#define MAXCOL 50
+#define MAXFIL 100
+
+#endif //DEFINE_H_INCLUDED
